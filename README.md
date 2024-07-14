@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a final year undergraduate currently pursuing bachelors in Computer Science and Engineering from IIIT Vadodara, Gujarat. I am always eager to learn new tools and technologies.
+
+<div id="badges" align="center">
+  <a href="https://in.linkedin.com/in/aruvishal-patel-94265019b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
+<div align=" center">
+  <a href="https://github.com/aruvishalpatel"><img  src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></a>
+</div>
