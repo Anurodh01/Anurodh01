@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a final year undergraduate currently pursuing bachelors in Computer Science and Engineering from IIIT Vadodara, Gujarat. I am always eager to learn new tools and technologies.
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anurodh-singh-659b2a200/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/anurodh-singh-659b2a200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 </div>
 <div align=" center">
   <a href="https://github.com/Anurodh01"><img  src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></a>
